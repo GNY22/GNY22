@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GNY22
 - 👀 I’m interested in learning as much as possible 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and C
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me gunny2249@gmail.com
 
